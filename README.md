@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/JEGYjdkm6G9mcpyOSG/giphy.gif" width="100"/>
 
 - Linkedin : https://www.linkedin.com/in/bhanu-teja-231767166/
-- Blogger : https://bhanubokkasam.blogspot.com/
+- Blog : https://bhanubokkasam.blogspot.com/
 - Email : bhanuroyal45@gmail.com
 
 <!---
