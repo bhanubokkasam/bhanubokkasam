@@ -15,7 +15,7 @@
 <hr>
 <img src="https://media.giphy.com/media/JEGYjdkm6G9mcpyOSG/giphy.gif" width="100"/>
 
-- Linkedin : https://www.linkedin.com/in/bhanu-teja-231767166/
+- Linkedin : https://www.linkedin.com/in/bhanubokkasam/
 - Blog: https://bhanubokkasam.blogspot.com/
 - Email: bhanuroyal45@gmail.com
 
