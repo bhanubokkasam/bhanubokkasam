@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/bhanubokkasam/">LinkedIn</a>, <a href="bhanuroyal45@gmail.com">Mail</a>, <a href= "https://bhanubokkasam.blogspot.com/">Blog</a>
 <br><br>
 
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=bhanubokkasam&show_icons=true"></p>
+
 <hr>
 <img src="https://media.giphy.com/media/JEGYjdkm6G9mcpyOSG/giphy.gif" width="100"/>
 
