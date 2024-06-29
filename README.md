@@ -2,7 +2,7 @@
 ### Hi there, This is Bhanu Teja <img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" width="100"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=bhanubokkasam&color=yellow) <p><em> 
 </em></p> </div>
 
-<img align='right' src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif](https://iconscout.com/lottie-animation/devops-11564124)" width="230">
 
 - 🔭 I’m currently Working as Data Scientist.
 - 🌱 I’m currently exploring Data.
@@ -17,8 +17,8 @@
 <img src="https://media.giphy.com/media/JEGYjdkm6G9mcpyOSG/giphy.gif" width="100"/>
 
 - Linkedin : https://www.linkedin.com/in/bhanu-teja-231767166/
-- Blog : https://bhanubokkasam.blogspot.com/
-- Email : bhanuroyal45@gmail.com
+- Blog: https://bhanubokkasam.blogspot.com/
+- Email: bhanuroyal45@gmail.com
 
 <!---
 bhanubokkasam/bhanubokkasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
