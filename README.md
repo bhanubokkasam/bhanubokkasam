@@ -4,12 +4,11 @@
 
 <img align='right' src="[https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif]" width="230">
 
-- 🔭 I’m currently Working as Data Scientist.
-- 🌱 I’m currently exploring Data.
-- 👯 I’m looking to collaborate on Data Science and ML.
-- 🤔 I’m looking for help with Open Source Projects.
-- 💬 Ask me about Data Science and Machine Learning.
-- 📫 How to reach me: <a href= "https://www.linkedin.com/in/bhanu-teja-231767166/">LinkedIn</a>, <a href="bhanuroyal45@gmail.com">Mail</a>, <a href= "https://bhanubokkasam.blogspot.com/">Blog</a>
+- 🔭 I’m currently working as a DevOps Engineer.
+- 🌱 Exploring: DevOps Tools and Best Practices
+- 👯 Collaboration Interests: DevOps Automation, CI/CD Pipelines, Kubernetes, AWS.
+- 💬 Expertise Areas: DevOps, Continuous Integration, Continuous Delivery, and Infrastructure as Code (IaC)
+- 📫 How to reach me: <a href= "https://www.linkedin.com/in/bhanubokkasam/">LinkedIn</a>, <a href="bhanuroyal45@gmail.com">Mail</a>, <a href= "https://bhanubokkasam.blogspot.com/">Blog</a>
 <br><br>
 
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=bhanubokkasam&show_icons=true"></p>
